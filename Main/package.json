@@ -2,7 +2,6 @@
   "name": "ORMEcomm",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "server.js",
   "scripts": {
     "dep-graph": "depcruise --exclude \"^node_modules\" --output-type dot src | dot -T svg > dependency-graph.svg",
