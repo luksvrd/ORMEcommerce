@@ -1,7 +1,7 @@
 # ORMEcommerce (E-Commerce Back End)
 
 https://github.com/luksvrd/ORMEcommerce
-![Team Profile Generated](https://github.com/luksvrd/TPG/blob/main/src/TPG.png)
+![Team Profile Generated](https://github.com/luksvrd/ORMEcommerce/blob/assets/E-commerce.png)
 
 ## License
 
@@ -38,7 +38,7 @@ The following necessary dependencies must be installed to run the application pr
 
 ## Usage
 
-Once you `cd` into the repo, `cd main` & run `npm i` you can create the tables for the database by executing `node server.js`. AIn order to see the database `node seeds/index.js`. Use an app like Insomnia Core to test your CRUD opperations on the database. Link to Application Walkthrough Video: (https://youtu.be/D6IKXb9rmXU)
+Once you `cd` into the repo, `cd main` & run `npm i` to install all the things. You can then start the server and create the tables for the database by executing `node server.js`. In order to see the database, execute `node seeds/index.js`. Use an app like Insomnia Core to test your CRUD opperations on the database. Link to Application Walkthrough Video: (https://drive.google.com/file/d/1ledT12mSAQm11cUzYd25c5S0r-H_uJpI/view)
 
 ## Questions
 
