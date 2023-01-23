@@ -1,7 +1,7 @@
 # ORMEcommerce (E-Commerce Back End)
 
 https://github.com/luksvrd/ORMEcommerce
-![Team Profile Generated](https://github.com/luksvrd/ORMEcommerce/blob/main/Assets/E-commerce.png)
+![ORM E-commerce](https://github.com/luksvrd/ORMEcommerce/blob/main/Assets/E-commerce.png)
 
 ## License
 
@@ -43,6 +43,10 @@ Once you `cd` into the repo, `cd main` & run `npm i` to install all the things. 
 ## Questions
 
 If you have any questions about the repo, open an issue at https://github.com/luksvrd?tab=repositories or contact me directly ljvy9b@gmail.com.
+
+## Credits
+
+Thanks to [Manav Misra] (https://github.com/manavm1990/node-starter) for the Node.js Starter Template & all his teachings throughout the WUSTL Coding Bootcamp.
 
 ## Contributing
 
