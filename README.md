@@ -38,7 +38,7 @@ The following necessary dependencies must be installed to run the application pr
 
 ## Usage
 
-Once you `cd` into the repo, `cd main` & run `npm i` to install all the things. You can then start the server and create the tables for the database by executing `node server.js`. In order to see the database, execute `node seeds/index.js`. Use an app like Insomnia Core to test your CRUD opperations on the database. Link to Application Walkthrough Video: (https://drive.google.com/file/d/1ledT12mSAQm11cUzYd25c5S0r-H_uJpI/view)
+Once you `cd` into the repo, `cd main` & run `npm i` to install all the things. You can then start the server and create the tables for the database by executing `node server.js`. In order to see the database, execute `node seeds/index.js`. Use an app like Insomnia Core to test your CRUD opperations on the database. Link to Application Walkthrough Video: (https://www.youtube.com/watch?v=Z6S-P6Ht8MU&t=9s)
 
 ## Questions
 
