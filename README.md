@@ -46,7 +46,7 @@ If you have any questions about the repo, open an issue at https://github.com/lu
 
 ## Credits
 
-Thanks to [Manav Misra] (https://github.com/manavm1990/node-starter) for the Node.js Starter Template & all his teachings throughout the WUSTL Coding Bootcamp.
+Thanks to [Manav Misra](https://github.com/manavm1990/node-starter) for the Node.js Starter Template & all his teachings throughout the WUSTL Coding Bootcamp.
 
 ## Contributing
 
