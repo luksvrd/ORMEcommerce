@@ -1,7 +1,7 @@
 # ORMEcommerce (E-Commerce Back End)
 
 https://github.com/luksvrd/ORMEcommerce
-![Team Profile Generated](https://github.com/luksvrd/ORMEcommerce/blob/assets/E-commerce.png)
+![Team Profile Generated](https://github.com/luksvrd/ORMEcommerce/blob/main/Assets/E-commerce.png)
 
 ## License
 
